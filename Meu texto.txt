@@ -1,3 +1,23 @@
-documento teste
+1-Descrição do Projeto
 
-realizando a primeira altera��o teste.
+Aplicativo que oferece dieta personalizada destinada a todas as pessoas com idade entre 10 e 70 anos sem doenças pré-existentes e que pretendam seguir uma dieta baseada no conceito de pirâmide alimentar. 
+
+2-Business Drivers/Background
+
+O aplicativo oferece cálculos de Gasto Energético Basal, Necessidade de Ingestão Energética Diária e IMC. Para a elaboração da dieta são levados em consideração gênero, idade, estatura, atividade física realizada e número de refeições que se pretende realizar. Os cálculos realizados para elaboração dia dieta são baseadas nas porções dos grupos de alimentos segundo a Pirâmide Alimentar Brasileira.
+O software será oferecido para teste gratuitamente por um mês e posteriormente será cobrado mensalidade para acompanhamento e geração de relatório de evolução dietética. 
+Destina-se a todos as pessoas com faixa etária entre 10 e 70 anos e que não tenham nenhum tipo de doença dietética pré-existe como fenilcetonúria, gota, diabetes tipo I e/ou tipo II, intolerância a lactose, intolerância a glutem, alergia a proteína do leite e outras doenças relacionadas a ingestão alimentar. 
+
+•	A Minha Dieta (appwoX) – “Oferece como opções diferentes tipos de dieta (Mediterâneo, Proteica, Detox, Heart Foundation e Milagrosa Sueca) com três diferentes níveis de dificuldades. Calcula peso ideal, IMC e ingestão calórica diária, porém não oferece dieta personalizada.”
+Fonte: Loja Apple Store
+
+•	Dieta e Saúde (Coach de Dieta e Cardápios) – “Oferece dois tipos de dieta: Dieta dos Pontos e Low Carb. Defini metas de perda de peso, oferece quantidade de macronutrientes de cada alimento. Oferece reuniões online e ao vivo para tirar dúvidas. Oferece rotina de exercícios. Oferece também recomendações e dicas de dieta. Possui serviço de chat com nutricionista. Acesso a cardápios variados. Aplicativo pago, assinatura trimestral (R$ 194,90) ou anual (R$389,90)”
+Fonte: Loja Apple Store
+
+Razões p/ a recomendação do projeto, incluindo o background, informação do negócio, definição do problema, etc.
+
+3-Visão
+
+O projeto visa oferecer uma dieta personalizada considerando gênero, idade, peso, estatura, atividade física, números de refeições diárias com o intuito de oferecer dieta balanceada para reeducação alimentar. 
+
+A visão do ideal que o negócio ou produto irá satisfazer após o término do projeto.
